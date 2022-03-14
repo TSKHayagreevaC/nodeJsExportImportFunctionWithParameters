@@ -1,4 +1,4 @@
-# Import and Export a Function with Parameter using Common JS Module Syntax
+# Import and Export a Function with Parameter using Common JS Module Syntax...
 
 Create two files `exportFunctionWithParameter.js`, `importFunctionWithParameter.js` parallel to `README.md` file.
 
